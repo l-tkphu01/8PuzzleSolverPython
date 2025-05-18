@@ -177,6 +177,7 @@ Màn hình chính
 ![Màn hình chính](./image/Màn%20hình%20chính.png)
 
 Màn hình đích
+
 ![Màn hình đích](./image/Màn%20hình%20đích.png)
 
 Màn hình thống kế (vd: BFS)

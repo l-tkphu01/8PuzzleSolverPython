@@ -99,7 +99,7 @@ _3.CÀI ĐẶT MÔI TRƯỜNG_
 
 **Cài đặt thủ công nếu cần:**
    ````bash
-   pip install pygame==2.5.2 numpy==1.24.3 matplotlib==3.7.1 imageio==2.31.1 seaborn==0.12.2
+   pip install pygame==2.6.1 numpy==2.2.4 matplotlib==3.10.3 imageio==2.37.0 seaborn==0.13.2
   ````
 
 - Các thư viện chuẩn Python: os, sys, time, random (không cần cài).

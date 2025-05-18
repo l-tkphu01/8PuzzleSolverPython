@@ -162,6 +162,28 @@ GIF: Xuất quá trình giải để trình bày hoặc nghiên cứu.
 - README.md: Tài liệu dự án.
 
 ***
+Kết quả thu được
+
+Màn hình hiển thị
+
+![Màn hình hiển thị](./image/Màn%20hình%20hiển%20thị.png)
+
+Màn hình mô tả thuật toán
+
+![Mô tả thuật toán](./image/Màn%20hình%20mô%20tả.png)
+
+Màn hình chính
+
+![Màn hình chính](./image/Màn%20hình%20chính.png)
+
+Màn hình đích
+![Màn hình đích](./image/Màn%20hình%20đích.png)
+
+Màn hình thống kế (vd: BFS)
+
+![Màn hình thống kê](./image/Màn%20hình%20thống%20kê.png)
+
+***
 **THÔNG TIN LIÊN HỆ**
 
 Nếu bạn có câu hỏi hoặc cần hỗ trợ, liên hệ:
